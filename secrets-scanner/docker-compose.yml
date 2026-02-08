@@ -1,0 +1,39 @@
+services:
+  scanner:
+    build: ./scanner
+    container_name: secrets-scanner
+    ports:
+      - "8001:8001"
+    networks:
+      - secrets-net
+
+  orchestrator:
+    build: ./orchestrator
+    container_name: secrets-orchestrator
+    ports:
+      - "8000:8000"
+    environment:
+      - SCANNER_URL=http://scanner:8001
+    volumes:
+      - ./test-repos:/repos:ro
+    depends_on:
+      - scanner
+    networks:
+      - secrets-net
+
+  frontend:
+    build: ./frontend
+    container_name: secrets-frontend
+    ports:
+      - "3000:80"
+    # THIS IS THE KEY: Mount your local files into the container
+    volumes:
+      - ./frontend:/usr/share/nginx/html:ro
+    depends_on:
+      - orchestrator
+    networks:
+      - secrets-net
+
+networks:
+  secrets-net:
+    driver: bridge

@@ -1,0 +1,92 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Secret Scanner</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <section id="landing" class="view active">
+        <div class="row">
+          <div class="col-md-12 main">
+            <h1>Secret Scanner</h1>
+            <p>Test Github repositories for potential secret/key leaks</p>
+            <p>
+              A project for Microblink internship. Main features developed by
+              Microblink, additional features added by Filip Matić
+            </p>
+            <div class="row start">
+              <button class="start-btn" id="getStartedBtn">Get started</button>
+            </div>
+            <div class="row">
+              <button class="start-btn info">More info</button>
+            </div>
+            <div class="row">
+              <div class="col-md-12 info-box" id="infoBox">
+                <p>
+                  This small app has been developed by
+                  <span>Filip Matić</span> as an application for a
+                  <span>Microblink</span> Software development internship. Most
+                  of the backend has been developed by the Microblink, but this
+                  simple UI and additional backend features are added as a part
+                  of the technical testing.<br />
+                  The <span>Secret Scanner</span> is able to go through a Github
+                  repository and see if you have any "secrets" mistakenly left
+                  visible, such as API keys, passwords and similar. After being
+                  able to access public repositories, now it can access private
+                  repos also by ... <br />
+                  Also, by connecting to an outside LLM service, app now
+                  suggests how to fix this secret leaking for your safety and
+                  privacy reasons.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="scanner" class="view">
+        <h2> Scan a Github repository</h2>
+
+
+        <form id="scanForm"> 
+            <label for="repoUrl">GitHub repository URL</label>
+            <input type="text" id="repoUrl" class="form-control" placeholder="https://github.com/user/repo" required>
+
+            <label for="githubToken">GitHub Token (optional)</label>
+            <input type="password" id="githubToken" class="form-control" placeholder="ghp_xxxxxxxxxxxx">
+            <small>(Settings → Developer settings → Personal access tokens)</small>
+
+            <button class="start-btn" type="submit"> Scan repository </button>
+        </form>
+
+        <div id="loading" class="loading hidden">
+            <div class="spinner"></div>
+            <p>Scanning repository... This may take a moment.</p>
+        </div>
+
+        <div id="results" class="results hidden">
+            <h2>Scan Results</h2>
+
+            <div id="summary" class="summary"></div>
+
+            <div id="findings" class="findings"></div>
+        </div>
+
+        <div id="error" class="error hidden"></div>
+
+        <button class="start-btn back" id="backBtn">
+            <---
+        </button>
+      </section>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

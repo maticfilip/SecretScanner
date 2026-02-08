@@ -1,0 +1,1358 @@
+{
+    "all_results": [
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/README.md",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/split.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/pdf-40.png",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/merge_option.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/main2.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/resize2.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/menu.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/resize_option.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/main.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/merge2.py",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [
+                        {
+                            "entropy": 4.08,
+                            "length": 39,
+                            "string": "/Type/Group/S/Transparency/CS/De..."
+                        },
+                        {
+                            "entropy": 4.32,
+                            "length": 48,
+                            "string": "/Type/Font/Subtype/Type0/BaseFon..."
+                        },
+                        {
+                            "entropy": 4.32,
+                            "length": 60,
+                            "string": "Light/Subtype/CIDFontType2/Type/..."
+                        },
+                        {
+                            "entropy": 4.36,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 59,
+                            "string": "/Type/Font/Subtype/TrueType/Name..."
+                        },
+                        {
+                            "entropy": 4.36,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.58,
+                            "length": 99,
+                            "string": "/Type/Font/Subtype/TrueType/Name..."
+                        },
+                        {
+                            "entropy": 4.47,
+                            "length": 50,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.38,
+                            "length": 48,
+                            "string": "/Type/Font/Subtype/Type0/BaseFon..."
+                        },
+                        {
+                            "entropy": 4.28,
+                            "length": 59,
+                            "string": "Bold/Subtype/CIDFontType2/Type/F..."
+                        },
+                        {
+                            "entropy": 4.42,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.42,
+                            "length": 59,
+                            "string": "/Type/Font/Subtype/TrueType/Name..."
+                        },
+                        {
+                            "entropy": 4.42,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.48,
+                            "length": 66,
+                            "string": "/Type/Font/Subtype/Type0/BaseFon..."
+                        },
+                        {
+                            "entropy": 4.53,
+                            "length": 79,
+                            "string": "/BaseFont/BCDJEE+Calibri/Subtype..."
+                        },
+                        {
+                            "entropy": 4.47,
+                            "length": 50,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.12,
+                            "length": 33,
+                            "string": "/Type/XObject/Subtype/Image/Widt..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "751/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "481/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "475/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "508/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "527/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 5.0,
+                            "length": 32,
+                            "string": "CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "391/ColorSpace/DeviceRGB/BitsPer..."
+                        }
+                    ],
+                    "matches_count": 24,
+                    "passed": false
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/test.pdf",
+            "has_secrets": true
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/fonts/Roboto-Regular.ttf",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/fonts/Roboto-Bold.ttf",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/fonts/Roboto-Medium.ttf",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/main2.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/merge_option.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/resize_option.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/merge2.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/resize2.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/main.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/resize_frame.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/split.cpython-311.pyc",
+            "has_secrets": false
+        },
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/__pycache__/menu.cpython-311.pyc",
+            "has_secrets": false
+        }
+    ],
+    "findings": [
+        {
+            "detectors": {
+                "aws_access_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "aws_secret_key": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "github_token": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "high_entropy_strings": {
+                    "matches": [
+                        {
+                            "entropy": 4.08,
+                            "length": 39,
+                            "string": "/Type/Group/S/Transparency/CS/De..."
+                        },
+                        {
+                            "entropy": 4.32,
+                            "length": 48,
+                            "string": "/Type/Font/Subtype/Type0/BaseFon..."
+                        },
+                        {
+                            "entropy": 4.32,
+                            "length": 60,
+                            "string": "Light/Subtype/CIDFontType2/Type/..."
+                        },
+                        {
+                            "entropy": 4.36,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 59,
+                            "string": "/Type/Font/Subtype/TrueType/Name..."
+                        },
+                        {
+                            "entropy": 4.36,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.58,
+                            "length": 99,
+                            "string": "/Type/Font/Subtype/TrueType/Name..."
+                        },
+                        {
+                            "entropy": 4.47,
+                            "length": 50,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.38,
+                            "length": 48,
+                            "string": "/Type/Font/Subtype/Type0/BaseFon..."
+                        },
+                        {
+                            "entropy": 4.28,
+                            "length": 59,
+                            "string": "Bold/Subtype/CIDFontType2/Type/F..."
+                        },
+                        {
+                            "entropy": 4.42,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.42,
+                            "length": 59,
+                            "string": "/Type/Font/Subtype/TrueType/Name..."
+                        },
+                        {
+                            "entropy": 4.42,
+                            "length": 44,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.48,
+                            "length": 66,
+                            "string": "/Type/Font/Subtype/Type0/BaseFon..."
+                        },
+                        {
+                            "entropy": 4.53,
+                            "length": 79,
+                            "string": "/BaseFont/BCDJEE+Calibri/Subtype..."
+                        },
+                        {
+                            "entropy": 4.47,
+                            "length": 50,
+                            "string": "/Type/FontDescriptor/FontName/BC..."
+                        },
+                        {
+                            "entropy": 4.12,
+                            "length": 33,
+                            "string": "/Type/XObject/Subtype/Image/Widt..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "751/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "481/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "475/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "508/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "527/ColorSpace/DeviceRGB/BitsPer..."
+                        },
+                        {
+                            "entropy": 5.0,
+                            "length": 32,
+                            "string": "CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+                        },
+                        {
+                            "entropy": 4.37,
+                            "length": 41,
+                            "string": "391/ColorSpace/DeviceRGB/BitsPer..."
+                        }
+                    ],
+                    "matches_count": 24,
+                    "passed": false
+                },
+                "private_key_dsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_ec": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_openssh": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                },
+                "private_key_rsa": {
+                    "matches": [],
+                    "matches_count": 0,
+                    "passed": true
+                }
+            },
+            "filename": "/tmp/tmpu9t7x78x/test.pdf",
+            "has_secrets": true
+        }
+    ],
+    "repo_url": "https://github.com/maticfilip/PDFEditor",
+    "summary": {
+        "files_with_errors": 0,
+        "files_with_secrets": 1,
+        "total_files_scanned": 23
+    }
+}
